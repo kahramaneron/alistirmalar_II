@@ -1,3 +1,4 @@
+# 1'den N'e kadar sayıların toplanması
 
 def topla(n):
 
